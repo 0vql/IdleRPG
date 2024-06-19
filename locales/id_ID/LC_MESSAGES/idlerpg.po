@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-08 22:06+0100\n"
-"PO-Revision-Date: 2024-03-15 02:27+0000\n"
+"PO-Revision-Date: 2024-06-20 10:00+0000\n"
 "Last-Translator: Feeltis Catcus <davinreginalds@gmail.com>\n"
 "Language-Team: Indonesian <http://translate.travitia.xyz/projects/idlerpg/"
 "bot/id/>\n"
@@ -3247,7 +3247,7 @@ msgstr "Kamu tidak memilki akses untuk perintah ini!"
 #: cogs/help/__init__.py:673
 #, python-brace-format
 msgid "See '{prefix}help <command>' for more detailed info"
-msgstr "Lihat '{prefix}help <command>' untuk info yang lengkap"
+msgstr "Lihat '{prefix}help <command>' untuk info yang lebih lengkap"
 
 #: cogs/help/__init__.py:689 cogs/help/__init__.py:695
 #: cogs/help/__init__.py:726 cogs/help/__init__.py:733
@@ -3264,7 +3264,7 @@ msgstr "Alias"
 
 #: cogs/patreon/__init__.py:120
 msgid "Reset a modified item"
-msgstr "Mengatur ulang barang yang dimodifikasi"
+msgstr "Mengatur ulang item yang dimodifikasi"
 
 #: cogs/patreon/__init__.py:124
 msgid ""
